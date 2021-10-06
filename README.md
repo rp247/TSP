@@ -3,7 +3,7 @@ Ruchit Patel
 ---------------------
 DESCRIPTION
 
-- In this lab, the Traveling Salesman Problem (TSP) is implemented using a graph (adjacency matrix) and depth-first search (DFS) algorithm.
+- The Traveling Salesman Problem (TSP) is implemented using a graph (adjacency matrix) and depth-first search (DFS) algorithm.
 - A Graph (directed or undirected) is represented by an adjacent matrix of VERTICES vertices (in this case 26).
 - DFS is ran from a STARTVERTEX (in this case 0) until a shortest hamiltonian path is found.
 - Arguments:    -u (Use undirected graph),
